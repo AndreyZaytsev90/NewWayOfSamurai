@@ -85,3 +85,7 @@ button:focus-visible {
   padding: 20px;
   box-sizing: border-box;
 }
+
+.selected {
+    background-color: yellow;
+}
